@@ -1,0 +1,7 @@
+{
+  "name": "BirdTFliteBare",
+  "displayName": "BirdTFliteBare",
+  "android": {
+    "package": "com.calebbits.birdtflitebare"
+  }
+}
